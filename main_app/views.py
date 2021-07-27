@@ -27,4 +27,4 @@ class PostCreate(CreateView):
     model = Post
     fields = ['title', 'content']
     template_name = 'post.html'
-    success_url = '/posts/'
+    success_url = '/'
