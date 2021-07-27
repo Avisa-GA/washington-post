@@ -1,11 +1,24 @@
 {% extends 'base.html' %}
 {% block content %}
-
-<h1>Add New Todo</h1>
+{% if object %}
+<h2 style="color: #616161">Edit Post</h2>
+{%else%}
+<h2 style="color: #616161">Add New Post</h2>
+{%endif%}
 <form action="" method="POST">
     {% csrf_token %}
     {{ form }}
-    <input type="submit" value="Create Todo">
+    {% if object %}
+    <input class="waves-effect waves-light btn grey darken-2" type="submit" value="Edit Post">
+    {%else%}
+    <input class="waves-effect waves-light btn grey darken-2" type="submit" value="Create Post">
+    {%endif%}
 </form>
+
+<a href="/posts">
+  <p>List of Titles is here</p>
+</a>
+
+
 
 {% endblock %}
