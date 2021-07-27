@@ -15,11 +15,14 @@ class Post(models.Model):
 
 
 
+
 class About(models.Model):
-    title = models.CharField(max_length=300)
-    content = models.CharField(max_length=1000)
-     def __str__(self):
-            return self.title
+    title_about = models.CharField(max_length=300)
+    content_about = models.CharField(max_length=1000)
 
     def __str__(self):
-        return self.content
+            return self.title_about
+
+
+    def __str__(self):
+        return self.content_about
