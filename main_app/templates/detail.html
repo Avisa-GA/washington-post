@@ -1,0 +1,12 @@
+{% extends 'base.html' %} {% block content %}
+<h4 style="color: #616161">Post Detail</h4>
+  <h5>
+    {{ post.title }}  
+  </h5>
+  <p>
+      {{ post.content }}
+  </p>
+  <a href="/posts/{{ post.id }}/delete">Delete this Post</a>
+  <br>
+  <a href="/posts/{{ post.id }}/update">Update this Post</a>
+{% endblock %}
