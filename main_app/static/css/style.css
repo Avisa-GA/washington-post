@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header, footer {
+    display: flex;
+    align-items: center;
+}
+
+
+footer {
+    justify-content: center;
+}
+
+main {
+    flex: 1;
+}
