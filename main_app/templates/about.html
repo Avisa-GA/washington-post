@@ -3,9 +3,12 @@
 {% load static %}
 {% block content %}
 <div>
-      
       <h1>About Us</h1>
       <p>Candid conversations about race and identity in 21st century America</p>
       <img style="height: 300px; height: 300px;" src="{% static 'images/about.jpg' %}" >
+      {% for about in abouts %}
+      <h3>{{ about.title_about }}</h3>
+      <p>{{ about.content_about }}</p>
+      {% endfor %}
 </div>
 {% endblock %}
