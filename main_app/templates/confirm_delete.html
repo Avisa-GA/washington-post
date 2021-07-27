@@ -1,0 +1,13 @@
+
+{% extends 'base.html' %}
+{% block content %}
+<h3 style="color: #616161">Are you sure you want to delete?</h3>
+<p style="font-weight: bold;">{{ object.title }}</p>
+<form action="" method="POST">
+    {% csrf_token %}
+    <div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <input class="waves-effect waves-light btn grey darken-2" type="submit" value="Yes - Delete">
+    <a style="margin-right: 70%; margin-top: 1%;" href="/posts/{{ object.is }}">Cancel</a>
+</div>
+</form>
+{% endblock %}
