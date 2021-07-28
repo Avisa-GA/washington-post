@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block content %}
+{% if errors %}
+<p style="color: red;">{{errors}}</p>
+{% endif %}
+<form action="" method="POST" class="register">
+    <legend>
+        <h1>Sign Up</h1>
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Submit">
+    </legend>
+</form>
+{% endblock %}
