@@ -1,0 +1,1 @@
+web: gunicorn washington_post.wsgi
