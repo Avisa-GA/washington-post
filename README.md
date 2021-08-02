@@ -4,7 +4,7 @@ Washington Post Journal is a full CRUD website, has a home page that you can see
 
 ## Technologies
 - Python | Django
-- [MaterializeCss](https://materializecss.com)
+- [Materialize-Css](https://materializecss.com)
 
 ## Wireframe
 
