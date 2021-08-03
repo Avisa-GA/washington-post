@@ -1,6 +1,6 @@
 # The Washington Post
 
-Washington Post Journal is a full CRUD website, has a home page that you can see all the news. To be able to add a news post, developer must login first, then on nav bar tou can see developer item, when you navigate to developer page, there you can create a post, update and delete and also see all your posts that you added to website.
+Washington Post Journal is a full CRUD website, has a home page that you can see all the news. To be able to add a news post, developers must login first, then on nav bar you can see developer link, when you navigate to developer page, there you can create a post, update and delete and also see all your posts that you added to website.
 
 ## Technologies
 - Python | Django
