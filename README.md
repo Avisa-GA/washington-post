@@ -17,6 +17,11 @@ Washington Post Journal is a full CRUD website, has a home page that you can see
 ![Screen Shot 2021-08-03 at 9 32 30 AM](https://user-images.githubusercontent.com/83556668/128052621-d4387bf8-90c0-4ec1-a48a-eebc24fb47ab.png)
 ![Screen Shot 2021-08-03 at 9 32 44 AM](https://user-images.githubusercontent.com/83556668/128052625-b155805e-cd57-448e-ac33-706a9fbf2b1a.png)
 
+![Screen Shot 2021-08-03 at 9 32 14 AM](https://user-images.githubusercontent.com/83556668/128052938-75863706-9868-4b77-8015-95a46aeaef61.png)
+![Screen Shot 2021-08-03 at 9 34 55 AM](https://user-images.githubusercontent.com/83556668/128052999-fad2a236-56e3-4ec4-915a-78b789ee297c.png)
+![Screen Shot 2021-08-03 at 9 35 08 AM](https://user-images.githubusercontent.com/83556668/128053006-2e398782-d87d-44cc-8541-4b42bdadadab.png)
+![Screen Shot 2021-08-03 at 9 35 20 AM](https://user-images.githubusercontent.com/83556668/128053020-a5ac4284-6cb5-4f54-b071-804b9507261f.png)
+![Screen Shot 2021-08-03 at 9 35 33 AM](https://user-images.githubusercontent.com/83556668/128053031-f5a843c5-8a69-44df-9ffb-95c8023c89ef.png)
 
 ## Getting Started
 [Click here](https://django-washington-post.herokuapp.com/)
