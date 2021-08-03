@@ -14,7 +14,6 @@ Washington Post Journal is a full CRUD website, has a home page that you can see
 
 ## Images of working app
 ![Screen Shot 2021-08-03 at 9 31 49 AM](https://user-images.githubusercontent.com/83556668/128052600-b9b1b20f-996d-4a06-a292-ece53fe9e7d2.png)
-![Screen Shot 2021-08-03 at 9 31 49 AM](https://user-images.githubusercontent.com/83556668/128052603-6b8217cf-42e5-4596-89da-3732fd25e26a.png)
 ![Screen Shot 2021-08-03 at 9 32 30 AM](https://user-images.githubusercontent.com/83556668/128052621-d4387bf8-90c0-4ec1-a48a-eebc24fb47ab.png)
 ![Screen Shot 2021-08-03 at 9 32 44 AM](https://user-images.githubusercontent.com/83556668/128052625-b155805e-cd57-448e-ac33-706a9fbf2b1a.png)
 
