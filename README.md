@@ -7,7 +7,7 @@ Washington Post Journal is a full CRUD website, has a home page that you can see
 - [Materialize-Css](https://materializecss.com)
 
 ## Wireframe
-
+![washington-post-wireframe](https://user-images.githubusercontent.com/83556668/128055607-a9c69f36-fb5b-4be5-aa2c-470a11473187.png)
 
 ## ERD
 ![washington-post-ERD](https://user-images.githubusercontent.com/83556668/128052294-51ef1bb6-adb7-4f8a-a952-017ed490b4ed.png)
